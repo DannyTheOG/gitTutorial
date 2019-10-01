@@ -21,7 +21,7 @@ Git is a version control system (VCS) for tracking changes in computer files.
 ### Basic commands
 
 * git init
-* git add [file]
+* git add [filename]
 * git status
 * git commit -m ['commit note']
 * git push

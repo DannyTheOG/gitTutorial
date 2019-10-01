@@ -18,3 +18,12 @@ Git is a version control system (VCS) for tracking changes in computer files.
 * [x] you can visit any snapshot at any time
 * [x] you can stage files before commiting
 
+### Basic commands
+
+* git init
+* git add [file]
+* git status
+* git commit -m ['commit note']
+* git push
+* git pull
+* git clone
